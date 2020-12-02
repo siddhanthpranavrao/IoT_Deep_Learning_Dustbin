@@ -1,5 +1,5 @@
 # Deep Learning Based Smart Garbage Monitoring System
-Team Members: [Pratyaksh P. Rao](https://github.com/pratyaksh10), [Siddhanth P. Rao](https://github.com/siddhanthpranavrao), [Rohit Ranjan]()
+Team Members: [Siddhanth P. Rao](https://github.com/siddhanthpranavrao), [Pratyaksh P. Rao](https://github.com/pratyaksh10), [Rohit Ranjan]()
 
 This research project contains three parts,
 
